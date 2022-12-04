@@ -1,7 +1,3 @@
-import os
-os.chdir('/Users/matteocanducci/Documents/Advent of Code 2021/Day01')
-import numpy as np
-
 with open('input_data.txt','r') as f:
     lines = f.readlines()
 f.close()
